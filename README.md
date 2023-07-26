@@ -30,9 +30,9 @@ Démonstration, par cette approche, de la faisabilité de regrouper automatiquem
 Comparaison de deux méthodes:
 - Extraction des features des images : algorithme de type **SIFT**
    Créations des descripteurs de chaque image         
-      - Pour chaque image passage en gris et equalisation
-      - création d'une liste de descripteurs par image ("sift_keypoints_by_img") qui sera utilisée pour réaliser les histogrammes par image
-      - création d'une liste de descripteurs pour l'ensemble des images ("sift_keypoints_all") qui sera utilisé pour créer les clusters de descripteurs
+      - Pour chaque image passage en gris et equalisation      
+      - création d'une liste de descripteurs par image ("sift_keypoints_by_img") qui sera utilisée pour réaliser les histogrammes par image       
+      - création d'une liste de descripteurs pour l'ensemble des images ("sift_keypoints_all") qui sera utilisé pour créer les clusters de descripteurs     
 - Un algorithme de type CNN Transfer Learning : **VGG16** (google)
 
 Une réduction en 2 dimensions **T-SNE**, afin de projeter les produits sur un graphique 2D, sous la forme de points dont la couleur correspondra à la catégorie réelle.      
