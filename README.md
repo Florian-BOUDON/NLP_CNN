@@ -1,6 +1,7 @@
-# NLP : Analyse de données textuelles & CNN : Réseau de neurones convolutif (keras) 
+# NLP : Analyse de données textuelles 
+# CNN : Réseau de neurones convolutif (keras) 
 
-## Etude de faisabilité d'un moteur de classification, basé sur une description et sur une image
+### Etude de faisabilité d'un moteur de classification, basé sur une description et sur une image
 
 Cette étude vise à comparer deux approches, le notebook 1 classe les images selon leur description et le notebook 2 classe les images en utilisant une méthode de transfert Learning basée sur VGG16.
 
