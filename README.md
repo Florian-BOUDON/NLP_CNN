@@ -1,5 +1,5 @@
 # NLP : Analyse de données textuelles 
-# CNN : Réseau de neurones convolutif (keras) 
+# CNN : Réseau de neurones convolutif (TensorFlow) 
 
 ### Etude de faisabilité d'un moteur de classification, basé sur une description et sur une image
 
