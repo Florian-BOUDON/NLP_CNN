@@ -40,6 +40,7 @@ Une réduction en 2 dimensions **T-SNE**, afin de projeter les produits sur un g
 Réalisation d’une mesure pour confirmer l'analyse visuelle, en calculant la similarité entre les catégories réelles et les catégories issues d’une segmentation en clusters, basée sur **l'ARI**.        
 Démonstration, par cette approche, de la faisabilité de regrouper automatiquement des produits de même catégorie.    
 
+*********
 Ce projet fait partie de la formation data-scientist par CentraleSupélec & Openclassrooms (certificat bac+5).
 
 
