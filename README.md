@@ -1,5 +1,5 @@
 # NLP : Analyse de données textuelles 
-# CNN : Réseau de neurones convolutifs (TensorFlow) 
+# CNN : Réseau de neurones convolutif (TensorFlow) 
 
 ### Etude de faisabilité d'un moteur de classification, basé sur une description et sur une image
 
@@ -8,13 +8,13 @@ Cette étude vise à comparer deux approches, le notebook 1 classe les images se
 ### Notebook 1 NLP: Analyse des descriptions textuelles 
 
 Un prétraitement des données textuelles:
-- enlever la **ponctuation**
-- enlever les **chiffres**
-- transformer les phrases en **liste de tokens** (en liste de mots)
-- enlever les **stopwords** (mots n'apportant pas de sens)
-- **lemmatizer**
-- enlever les **majuscules**
-- **reformer les phrases** avec les mots restants
+- Enlever la **ponctuation**
+- Enlever les **chiffres**
+- Transformer les phrases en **liste de tokens** (en liste de mots)
+- Enlever les **stopwords** (mots n'apportant pas de sens)
+- **Lemmatizer**
+- Enlever les **majuscules**
+- **Reformer les phrases** avec les mots restants
 
 Comparaison de 4 méthodes afin d’extraire les features texte : 
 - Deux approches de type **bag-of-words**, comptage simple de mots et **Tf-idf** 
